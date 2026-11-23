@@ -1,0 +1,10 @@
+Vertical 9:16 end card, 2.4 seconds, 30 fps. Use the uploaded SaintNaomis logo exactly as supplied. Do not redraw, restyle, recolor or respell it.
+
+Timeline:
+0.00-0.40 s: solid [brand background color] frame with the same texture as the intro. The logo fades in from 0% to 100% opacity over 6 frames.
+0.40-1.60 s: the logo sits in the upper-middle of the frame. Below it, the word "SaintNaomis" in a clean bold typeface. Below that, one line of text: "[ONE CTA]". The text appears with a single quick pop, not letter by letter.
+1.60-2.40 s: everything holds perfectly still.
+
+Style: matches the intro. Same colors, same texture, same logo placement. Keep all text inside the center 80% of the frame so platform buttons never cover it. Text stays readable at small size on a phone.
+
+Negative: no URL, no second call to action, no social icons, no people, no moving background, no particles, no camera movement, no logo warping.
