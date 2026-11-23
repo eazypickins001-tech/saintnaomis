@@ -14,7 +14,8 @@ node tools/validate-posts.js 03_POST_BANK.md
 Never split a post across files. The post is the single production record.
 
 **`Length:` is the content runtime only.** Every published post adds the Saint
-Naomis intro (0.8 s) and outro (2.4 s) on top. See `_SHARED/intro-outro.md`.
+Naomis intro (1.2 s) and outro (2.4 s) on top. See `_SHARED/intro-outro.md` and
+`_SHARED/intro-prompt`.
 
 **Published copy rules:** no em dashes, no emojis, no exclamation marks. No
 exam, admission or scholarship promise. Every face carries `Illustrative image.

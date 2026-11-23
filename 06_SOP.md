@@ -12,7 +12,7 @@
 | Video generation | Veo and Omni | Veo 8 s max, Omni 10 s max. This bank uses 6 × 8 s. |
 | Stills and inserts | Flux / Midjourney / Ideogram | Edit a near-miss over regenerating |
 | Editing, text, captions | CapCut | All text is built here, never generated |
-| Intro and outro | CapCut | Built once, see `_SHARED/intro-outro.md` and `02_BRAND_SKIN.md` |
+| Intro and outro | CapCut | Built once from `_SHARED/intro-prompt` and `_SHARED/outro-prompt`; values in `02_BRAND_SKIN.md` §5b |
 | Scores, deadlines, labels | CapCut / After Effects | Never AI-generate a number or a result |
 | Voice | ElevenLabs, voice "The Teacher" | Locked settings, one voice only |
 | Music | Licensed library bed | No trending audio |
@@ -109,11 +109,11 @@ day** (Sunday).
 
 **Packaging gate**
 
-- [ ] Intro is 0.8 s and hard-cuts into Clip 1
+- [ ] Intro is 1.2 s and hard-cuts into Clip 1
 - [ ] Outro is 2.4 s, one CTA, no seam from the last clip
 - [ ] Intro and outro are the same files used on every other post
 - [ ] The three birds lift on the same frame every time
-- [ ] Content is 48 s, published runtime is 51.2 s
+- [ ] Content is 48 s, published runtime is 51.6 s
 - [ ] File tag and captions read at 40 px and on mute
 - [ ] The logo's birds survive the 40 px avatar test
 

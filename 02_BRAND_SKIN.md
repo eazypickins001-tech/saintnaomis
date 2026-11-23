@@ -35,7 +35,7 @@ is always the subject.
 | 3 | **Transition** | **The bird-lift wipe.** Three birds cross the frame left to right in 3 frames, hiding the cut. No digital glitch wipes, no zoom punches. |
 | 4 | **Label system** | A soft-green taped label at the top of Clip 1: `D07 · THE SAT MONSTER`. Built in the editor. |
 | 5 | **Caption rule** | Bottom third, word by word, Poppins Bold, six words maximum, one word underlined in `#239400`. Works muted. |
-| 6 | **Intro + sign-off** | 0.8 s intro: the globe mark appears, three birds lift off, the wordmark lands. 2.4 s outro: soft-green end card, logo, one CTA. |
+| 6 | **Intro + sign-off** | 1.2 s intro: black frame, one green flash with paper grain, the supplied logo lockup, hard cut. 2.4 s outro: soft-green end card, logo, brand line, one CTA. |
 | 7 | **Palette** | White, soft green, brand green, deep green, ink. Ratio rule below. |
 | 8 | **Voice** | One narrator, warm, low, unhurried. Internal name: **The Teacher**. |
 | 9 | **Sound signature** | Three soft wing beats and a low air whoosh as the intro hit; bed at −22 to −18 LUFS; a single low page turn on the wipe; a warm two-note outro tone. |
@@ -103,26 +103,43 @@ Three roles, no more. Never a fourth font.
 
 | Beat | Time | On screen |
 |---|---|---|
-| Signal / open | 0.00–0.10 s | White or first frame of the subject |
-| Globe mark | 0.10–0.40 s | Logo globe and profile, matte on white |
-| Bird lift | 0.40–0.55 s | Three birds rise from the mark |
-| Wordmark | 0.55–0.80 s | `SaintNaomis` lands, one soft pop |
-| Snap out | 0.80–1.00 s | Hard cut to Clip 1 |
-| The footage | 1.0 s+ | One subject, one action, available light |
-| File label | 1.0–2.5 s | `SN / D07` and the file name, taped in |
+| Black frame | 0.00–0.15 s | Pure black |
+| Signal hit | 0.15–0.45 s | Brand green #239400 flash with paper grain at 30%, logo shape snaps in |
+| Logo lockup | 0.45–0.90 s | Full logo and `SaintNaomis` centred, scale pop |
+| Hold | 0.90–1.20 s | Final frame holds, hard cut |
+| The footage | 1.2 s+ | One subject, one action, available light |
+| File label | 1.2–2.5 s | `SN / D07` and the file name, taped in |
 | Captions | 2.5 s+ | Bottom third, six words max |
 | The turn | 16–32 s | Three birds cross the frame |
-| Sign-off | last 2.4 s | Soft-green end card, logo, one CTA |
+| Sign-off | last 2.4 s | Soft-green end card, logo, brand line, one CTA |
 
-**Intro (0.8 s):** white, globe mark, three birds lift, wordmark, hard cut.
-Three elements maximum. No whoosh over 0.2 s.
+**Intro (1.2 s):** black frame, one green flash with paper grain, the supplied
+logo lockup with a scale pop, then a hard cut. Only three elements: logo,
+flash, texture. Use `_SHARED/intro-prompt` with the values in §5b.
 
-**Outro (2.4 s):** 0.0–0.4 s last content frame holds; 0.4–1.6 s soft-green end
-card with the logo, the line `Her Voice. Her Rights. Her Life.` and one CTA;
-1.6–2.4 s hold. Audio: two warm notes, then silence.
+**Outro (2.4 s):** 0.0–0.4 s soft-green `#EAF6E5` frame with the same paper
+texture; the logo fades in from 0 to 100% over 6 frames. 0.4–1.6 s logo in the
+upper-middle, wordmark below, then the line `Her Voice. Her Rights. Her Life.`
+and one CTA, all inside the centre 80%. 1.6–2.4 s hold perfectly still. No URL,
+no second CTA, no social icons, no people, no moving background.
 
 **Loop rule:** if the post loops, the last frame is the white or soft-green card
 that opens the intro. Never force a loop.
+
+### 5b. Values for the intro and outro prompts
+
+The two prompt files are the engine templates. Fill the bracketed values with:
+
+| Placeholder | Value |
+|---|---|
+| `[color from logo]` | `#239400` |
+| `[texture]` | paper grain |
+| `[brand color]` | `#239400` |
+| `[brand background color]` | `#EAF6E5` |
+| `[ONE CTA]` | the exact CTA line from the post block |
+
+**Logo asset:** `brand/saintnaomis-logo.png`. Use it exactly as supplied. Do
+not redraw, restyle, recolour or respell the wordmark.
 
 ---
 
@@ -177,15 +194,14 @@ Fingerprints
   3 transition:         bird-lift wipe
   4 label system:       soft-green taped file label
   5 caption rule:       bottom third, six words max, one underlined word
-  6 intro / sign-off:   0.8 s logo and bird lift; "Keep her in the room."
+  6 intro / sign-off:   1.2 s logo lockup; "Keep her in the room."
 
 Intro
-  0.00–0.10 s:   white
-  0.10–0.40 s:   globe and profile mark
-  0.40–0.55 s:   three birds lift
-  0.55–0.80 s:   wordmark lands
-  0.80–1.00 s:   hard cut to Clip 1
-  audio logo:    three soft wing beats at 0.40 s
+  0.00–0.15 s:   black
+  0.15–0.45 s:   green flash and paper grain, logo shape snaps in
+  0.45–0.90 s:   full logo and wordmark, scale pop
+  0.90–1.20 s:   hold, then hard cut to Clip 1
+  audio logo:    single signal hit at 0.15 s
 
 Outro
   end card:      soft green, logo, brand line, one CTA
@@ -193,11 +209,11 @@ Outro
   loop or cut:   cut clean, loop only when the last frame matches the card
 
 Motion grammar:   see section 5
-Sound signature:  wing beats and air whoosh intro / bed −22 LUFS / page turn
+Sound signature:  signal hit and paper texture intro / bed −22 LUFS / page turn
                   on the wipe / two-note outro
 Voice:            The Teacher, warm, low, unhurried
 Sign-off line:    Keep her in the room.
-Handles:          @saintnaomis (TikTok, Instagram),
+Handles:          @saintnaomis (TikTok, Instagram, Threads),
                   facebook.com/SaintNaomisFoundation,
                   YouTube @SaintNaomisFoundation,
                   LinkedIn saint-naomis-foundation
