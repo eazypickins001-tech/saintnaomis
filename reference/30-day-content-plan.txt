@@ -1,0 +1,1252 @@
+SAINT NAOMIS FOUNDATION
+30-DAY SHORT-FORM AI VIDEO CONTENT PLAN
+Production format: 40-60 second videos
+Primary generation tools: Google Omni (up to 10 sec/clip) and Veo (up to 8 sec/clip)
+Audience: African girls/women, parents, students, university applicants and education-focused communities
+
+PRODUCTION RULES
+================
+1. Every human character is Black/African in complexion unless a concept explicitly requires otherwise.
+2. Each generated clip stays within the model limit:
+   - Omni: maximum 10 seconds per generated clip.
+   - Veo: maximum 8 seconds per generated clip.
+3. Each finished video is 40-60 seconds.
+4. Storyboards use clip-level timing, not only broad scene timing.
+5. Character continuity must be specified whenever a character returns: age range, complexion, hairstyle, wardrobe and setting.
+6. The first 1-2 seconds must contain a visual or narrative pattern interrupt.
+7. Pattern interrupts are purposeful, not decoration. Use gravity/physics, scale, time, glitch, material swaps, mirrors, impossible objects, anatomy, camera perspective, emotion/expectation subversion, light/color and typography.
+8. Narration should be conversational and emotionally precise.
+9. Avoid generic NGO language such as "empowering communities" unless it is earned by a specific story.
+10. Every video should create at least one of these reactions: "Wait, what?", "That could be me", "I never thought about it that way", "Is this true?", "I need to send this to someone."
+11. CTAs should be soft and context-specific. Do not sell in every video.
+12. Educational service content should feel like opportunity content first and advertising second.
+
+CONTENT PILLARS
+================
+A. The Hidden Story: girls, women, safety, education, trauma and social pressure.
+B. The Future She Could Have: aspiration, confidence, mentorship and transformation.
+C. Hard Truths: uncomfortable misconceptions and overlooked problems.
+D. Parent Radar: things parents should notice, ask or understand.
+E. Student Advantage: study habits, exam preparation, confidence and opportunity.
+F. Global Education: SAT, GED, IELTS and university admission assistance.
+G. Transformation Stories: before/after journeys without exploiting trauma.
+H. Community Conversations: questions designed to generate real comments and stories.
+
+30-DAY CALENDAR
+===============
+
+DAY 1
+TITLE: The Empty Chair
+Length: 48 sec
+Psychographic: Parents and adults who fear missing warning signs.
+Pattern interrupt: Material swap + emotion subversion.
+Hook: "She didn't drop out. Something happened."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African schoolgirl's empty classroom chair. Her neatly folded school uniform suddenly dissolves into loose paper that blows upward while the classroom remains still. Locked camera.
+Overlay: "She didn't drop out."
+Narration: "She didn't drop out. Something happened."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: The empty chair fills with school notebooks, then the notebooks slowly disappear one by one.
+Narration: "Sometimes a girl stops going to school because the problem isn't inside the classroom."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Camera pushes through the empty chair and reveals the same African girl, about 14, sitting silently at home while adults argue out of focus behind her.
+Narration: "Sometimes what is waiting for her at home is bigger than the future she can see."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: The room cracks apart like paper and transforms back into the classroom. She stands holding her schoolbag.
+Narration: "That's why keeping girls in school requires more than telling them to study."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: She walks toward the classroom. The hallway lights turn on one by one ahead of her.
+Narration: "It starts with noticing what is happening before she disappears."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She sits down. Another empty chair beside her becomes occupied by another African girl.
+Narration: "Sometimes changing a future starts with simply noticing."
+CTA overlay: "Follow Saint Naomis."
+
+Post Text: A missed school day can look small from the outside. Sometimes it is the visible part of a much bigger story. The earlier someone notices, the more possibilities remain.
+Comments:
+1. "What warning sign do adults notice too late?"
+2. "This made me think about the girls who simply stopped showing up. What happened to them?"
+3. "Parents, would your child tell you if something was making school feel unsafe?"
+
+DAY 2
+TITLE: The Future Has a Sound
+Length: 48 sec
+Psychographic: Girls who feel their future is already decided.
+Pattern interrupt: Audio expectation + impossible object.
+Hook: "Listen carefully. That's the sound of a future changing."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Close-up of African teenage girl's school shoes walking through a quiet corridor. With every step, glowing letters form briefly beneath her feet.
+Narration: "Listen carefully. That's the sound of a future changing."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Her footsteps suddenly stop. The corridor stretches impossibly far.
+Narration: "It rarely sounds dramatic."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: A schoolbook opens and hundreds of tiny doors appear on its pages.
+Narration: "Sometimes it sounds like a question, a teacher, a mentor..."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She touches one tiny door. It expands into a university lecture hall.
+Narration: "...or one person saying, 'You can actually do this.'"
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: African girl now in a simple graduation outfit walks through the lecture hall. Camera follows from behind.
+Narration: "Opportunity often begins before success is visible."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She turns toward camera, confident. Behind her, multiple doors remain open.
+Narration: "Never underestimate what the right support can unlock."
+CTA: "Share this with a girl who needs to hear it."
+
+Post Text: Sometimes the biggest change begins with one person seeing possibility before the student sees it herself.
+Comments:
+1. "Who was the person who first made you believe you could do more?"
+2. "Tag someone who opened a door for you."
+3. "If you could open one door for a young girl today, what would it be?"
+
+DAY 3
+TITLE: The Smile Test
+Length: 48 sec
+Psychographic: Adults who underestimate hidden distress.
+Pattern interrupt: Mask crack.
+Hook: "A smile can be the best hiding place."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Symmetrical portrait of a smiling African teenage girl. Everything is perfect except her reflection does not smile.
+Narration: "A smile can be the best hiding place."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Her reflection slowly stops smiling while she continues smiling.
+Narration: "Especially when everyone expects you to be okay."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Reflection touches the glass. The real girl notices.
+Narration: "Sometimes the person saying 'I'm fine' is asking to be noticed without knowing how to ask."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Mirror cracks gently. Behind it is the girl sitting alone on her bed, expression exhausted.
+Narration: "The question isn't always, 'What's wrong?'"
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: African female mentor sits beside her, not speaking, simply present.
+Narration: "Sometimes it is, 'Do you want me to sit with you?'"
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Girl finally looks up. Warm light enters the room.
+Narration: "Being noticed can be the beginning of feeling safe."
+CTA: "Start the conversation."
+
+Post Text: Not every struggle announces itself. Sometimes support starts with being present long enough to notice.
+Comments:
+1. "Would you notice the difference between a real smile and a survival smile?"
+2. "What is one question that makes people feel safe enough to talk?"
+3. "This is the kind of conversation schools and homes need more often."
+
+DAY 4
+TITLE: The Girl Who Thought She Was "Not University Material"
+Length: 48 sec
+Psychographic: Students with low academic self-belief.
+Pattern interrupt: Scale distortion.
+Hook: "She was carrying a future she couldn't see."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African teenage girl carries an absurdly tiny university building in her schoolbag, unnoticed by everyone around her.
+Narration: "She was carrying a future she couldn't see."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: She opens the bag. The tiny campus grows into a full university around her.
+Narration: "She thought university was for people who were naturally brilliant."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Giant exam questions tower over her like skyscrapers.
+Narration: "Then every difficult question felt like proof that she didn't belong."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: An African female mentor places one small step on the ground in front of her.
+Narration: "But preparation changes what difficult looks like."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: The giant questions shrink into manageable cards as she studies.
+Narration: "You don't need to know everything on day one."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She walks through the university entrance.
+Narration: "You need a plan, support and enough confidence to keep going."
+CTA: "University starts with preparation."
+
+Post Text: Academic confidence is not always something students have before they begin. Sometimes it grows because preparation gives them evidence that they can do it.
+Comments:
+1. "What subject made you feel like you weren't 'smart enough'?"
+2. "Students: is confidence or preparation your bigger struggle?"
+3. "Who needs to hear that being confused today doesn't define where you finish?"
+
+DAY 5
+TITLE: Your IELTS Score Is Not Your English
+Length: 48 sec
+Psychographic: IELTS candidates afraid of failure.
+Pattern interrupt: Typography + glitch.
+Hook: "This number is not your intelligence."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Huge glowing IELTS-style score number appears above an African student, then glitches and shatters.
+Overlay: "THIS NUMBER ≠ YOUR INTELLIGENCE"
+Narration: "This number is not your intelligence."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Four floating doors labelled Listening, Reading, Writing, Speaking.
+Narration: "An English test measures performance across specific skills."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Student enters the wrong door and gets surrounded by rapidly changing prompts.
+Narration: "Knowing English and knowing how to perform under the test rules are not exactly the same thing."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Doors reorganize into a clear path. African tutor points to each one.
+Narration: "That is why targeted practice matters."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student practices speaking while a timer becomes smaller and less threatening.
+Narration: "You can improve the skill without turning your preparation into panic."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Score number returns, now stable, beside a university acceptance envelope.
+Narration: "Prepare for the test you actually have to take."
+CTA: "Ask Saint Naomis about IELTS preparation."
+
+Post Text: A test score is a measurement for a specific task. With targeted preparation, students can learn the format, practice the skills and approach test day with a clearer strategy.
+Comments:
+1. "IELTS candidates, which section causes the most stress for you?"
+2. "Did anyone else know English but struggle with the test format?"
+3. "What would you want a preparation program to help you with first?"
+
+DAY 6
+TITLE: The SAT Monster
+Length: 48 sec
+Psychographic: Students intimidated by standardized testing.
+Pattern interrupt: Impossible object.
+Hook: "The SAT looks bigger when you don't have a map."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student standing in a dark room facing a gigantic SAT test paper that rises like a skyscraper.
+Narration: "The SAT looks bigger when you don't have a map."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: A tiny paper map appears in the student's hand and the skyscraper begins shrinking.
+Narration: "What feels like one giant exam is actually a collection of skills."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Giant questions separate into smaller floating blocks.
+Narration: "Question types. Timing. Reading. Math. Strategy."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Student moves through a training course, solving one block at a time.
+Narration: "Preparation turns an intimidating wall into steps."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Timer appears, but instead of counting down, it counts upward as confidence grows.
+Narration: "The goal isn't to be fearless."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student reaches a university campus gate.
+Narration: "The goal is to know what you're doing when the clock starts."
+CTA: "SAT preparation is about strategy, not panic."
+
+Post Text: The SAT can feel overwhelming when students don't know what to expect. Structured preparation can make the task clearer, more familiar and more manageable.
+Comments:
+1. "SAT students: what scares you more, the questions or the clock?"
+2. "Parents of SAT students, what do you wish someone had explained earlier?"
+3. "If you could remove one part of SAT anxiety, what would it be?"
+
+DAY 7
+TITLE: GED Is Not "Giving Up"
+Length: 48 sec
+Psychographic: Adults and young people taking nontraditional education paths.
+Pattern interrupt: Expectation subversion.
+Hook: "Everyone thought her story was over."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African young woman closes a school door. As it shuts, a second illuminated door appears beside it.
+Narration: "Everyone thought her story was over."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: She turns toward the second door labelled GED.
+Narration: "But leaving one educational path doesn't mean leaving education."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Her old school books transform into GED study materials.
+Narration: "For some people, the route changes."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She studies at night. The room slowly fills with floating pages.
+Narration: "The goal can still be a qualification, further study or a new opportunity."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: GED preparation checklist completes item by item.
+Narration: "The important question is not, 'Did your path look perfect?'"
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She walks confidently through a college campus.
+Narration: "It's, 'What's the next step from where you are now?'"
+CTA: "Explore your next education step with Saint Naomis."
+
+Post Text: Education does not always happen on one straight line. Alternative pathways can help people keep moving toward their goals.
+Comments:
+1. "Why do people treat a nontraditional education path like a failure?"
+2. "Would you take a different route if it got you to the same destination?"
+3. "What is one education opportunity adults don't talk about enough?"
+
+DAY 8
+TITLE: The Application That Ate Her Dreams
+Length: 48 sec
+Psychographic: University applicants overwhelmed by admissions.
+Pattern interrupt: Impossible object + scale.
+Hook: "She didn't need more ambition. She needed a map."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student at desk. University application forms grow into a mountain around her.
+Narration: "She didn't need more ambition. She needed a map."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Forms begin flying around her. Camera rotates slightly while she remains still.
+Narration: "Deadlines. Requirements. Essays. Documents."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: A single red thread connects the scattered documents into a clear sequence.
+Narration: "The hardest part can be knowing what comes first."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: African admissions advisor sits beside her and places the documents into a timeline.
+Narration: "Good guidance turns a pile of tasks into a process."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student submits application. Papers transform into birds flying toward a university.
+Narration: "And a process is much easier to manage than panic."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Acceptance email glows on laptop. Student smiles.
+Narration: "Your dream deserves more than guesswork."
+CTA: "Ask about university admission assistance."
+
+Post Text: Applying to university can become overwhelming when every requirement feels disconnected. Guidance can help students understand the sequence, deadlines and documents they need to manage.
+Comments:
+1. "What part of university applications confuses students most?"
+2. "Would you rather have help with choosing universities or completing applications?"
+3. "Parents: when did you realize your child needed more than encouragement?"
+
+DAY 9
+TITLE: The Advice Girls Hear Too Late
+Length: 48 sec
+Psychographic: Young women navigating pressure and identity.
+Pattern interrupt: Time manipulation.
+Hook: "Imagine meeting yourself ten years from now."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African 16-year-old girl looks into a mirror. Her reflection ages rapidly into a confident 26-year-old African woman.
+Narration: "Imagine meeting yourself ten years from now."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Older reflection writes three words on mirror: "You are capable."
+Narration: "She wouldn't tell you to be perfect."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Older woman shakes her head as scenes of peer pressure, fear and comparison appear behind her.
+Narration: "She'd probably tell you to stop measuring your future against someone else's timeline."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Mirror becomes a doorway. Younger girl steps toward older version.
+Narration: "Learn. Ask questions. Build skills."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Younger girl receives a book and schoolbag from older self.
+Narration: "Protect your future while you still have time to shape it."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Mirror returns to normal. Girl smiles at herself.
+Narration: "Your future self is counting on what you do today."
+CTA: "Save this for the days you doubt yourself."
+
+Post Text: You don't have to have your entire future figured out at sixteen. You do have to keep giving your future self better options.
+Comments:
+1. "What would your 10-years-older self tell you today?"
+2. "Which sentence would you have needed to hear at 16?"
+3. "Someone younger than you may need your advice more than you realize."
+
+DAY 10
+TITLE: What If Her Problem Isn't Motivation?
+Length: 48 sec
+Psychographic: Adults who blame students for disengagement.
+Pattern interrupt: Expectation subversion.
+Hook: "Maybe she's not lazy."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student at desk. A giant label "LAZY" appears above her, then cracks apart.
+Narration: "Maybe she's not lazy."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: The label transforms into smaller labels: tired, confused, afraid, unsupported.
+Narration: "Maybe she's overwhelmed. Confused. Afraid of failing."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Four doors appear, each representing one possible problem.
+Narration: "We often call the behavior before we investigate the cause."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Teacher or mentor opens one door and sits beside student.
+Narration: "A better question is, 'What is making this difficult?'"
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student begins working. The surrounding noise disappears.
+Narration: "Sometimes the right support unlocks effort that punishment never could."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student completes a page and looks relieved.
+Narration: "Before you label the student, understand the struggle."
+CTA: "Listen before you judge."
+
+Post Text: Motivation is not always the root problem. Students can disengage because they are confused, overwhelmed, anxious or unsupported.
+Comments:
+1. "Have you ever been called lazy when you were actually struggling?"
+2. "Teachers and parents: what signs tell you a student needs support rather than punishment?"
+3. "This distinction can completely change how adults respond."
+
+DAY 11
+TITLE: The Girl Who Became Invisible
+Length: 48 sec
+Psychographic: Girls who feel unseen.
+Pattern interrupt: Light/color isolation.
+Hook: "Watch what happens when nobody notices her."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Busy African classroom. One girl stands perfectly still while everyone around her is in normal color. She gradually becomes translucent.
+Narration: "Watch what happens when nobody notices her."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Teacher walks past. Girl raises her hand but it fades before reaching the top.
+Narration: "She doesn't make trouble. She doesn't demand attention."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Her desk becomes transparent while the class continues.
+Narration: "So sometimes adults assume everything is fine."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: African female mentor turns and looks directly at her. The girl becomes visible again.
+Narration: "Until one person asks a different question."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Mentor sits beside her.
+Narration: "'What do you need that nobody has asked you about?'"
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Classroom fills with warm light around the girl.
+Narration: "Being seen can change how a person sees herself."
+CTA: "Who needs to be noticed today?"
+
+Post Text: Some young people are easy to overlook precisely because they do not create problems. Notice the quiet ones too.
+Comments:
+1. "Were you the quiet student growing up?"
+2. "What could teachers do to make quiet students feel seen?"
+3. "Tag a teacher who always noticed the student nobody else noticed."
+
+DAY 12
+TITLE: The Scholarship Illusion
+Length: 48 sec
+Psychographic: Students seeking opportunity but overwhelmed by information.
+Pattern interrupt: Glitch/reveal.
+Hook: "The scholarship you never apply for cannot change your life."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student sees a glowing scholarship announcement. It glitches into thousands of unreadable applications.
+Narration: "The scholarship you never apply for cannot change your life."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: The screen splits into opportunities and excuses.
+Narration: "Sometimes the barrier isn't opportunity."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Excuse words dissolve: "Not qualified. Too difficult. Probably rejected."
+Narration: "It's the belief that rejection is guaranteed."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Student researches, organizes documents and checks eligibility.
+Narration: "Research first. Check the requirements. Prepare deliberately."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: One application flies toward a university campus.
+Narration: "One application can become one possibility."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Many doors appear, only one opens.
+Narration: "You cannot choose the answer before you submit the question."
+CTA: "Start looking."
+
+Post Text: Opportunity is not guaranteed. But students cannot benefit from opportunities they never investigate or apply for.
+Comments:
+1. "What stops students from applying more often: fear, information or preparation?"
+2. "How many opportunities do you think students miss simply because they assume they aren't qualified?"
+3. "What scholarship information would you want explained in plain English?"
+
+DAY 13
+TITLE: The Parent Who Asked the Wrong Question
+Length: 48 sec
+Psychographic: Parents who want children to succeed.
+Pattern interrupt: Emotion subversion.
+Hook: "She asked, 'Did you pass?' He needed her to ask something else."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African mother opens the front door. Her teenage son enters holding a test paper behind his back.
+Narration: "She asked, 'Did you pass?' He needed her to ask something else."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: His smile freezes. The test paper becomes enormous between them.
+Narration: "Because sometimes a score is the last thing a child wants to talk about."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Paper folds into a question mark.
+Narration: "Try asking, 'What part was hardest?'"
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Mother sits beside him. The giant paper shrinks.
+Narration: "Now you have something you can actually help with."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: They review one difficult question together.
+Narration: "The conversation moves from judgment to problem-solving."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Mother and son smile, studying together.
+Narration: "Sometimes changing the question changes the relationship."
+CTA: "Ask better questions."
+
+Post Text: A test score can tell you what happened. A good conversation can help you understand why.
+Comments:
+1. "Parents, what question did your parents always ask after exams?"
+2. "Students, which question makes you feel supported instead of judged?"
+3. "This is a small change that can create a very different conversation."
+
+DAY 14
+TITLE: The University Door
+Length: 48 sec
+Psychographic: Aspiring students who see university as inaccessible.
+Pattern interrupt: Impossible object.
+Hook: "The university door was never locked. She just couldn't find it."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African girl stands in a city with hundreds of doors floating in the sky. One says UNIVERSITY.
+Narration: "The university door was never locked."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: She tries random doors that lead nowhere.
+Narration: "She just couldn't find it."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: A map appears with deadlines, requirements, exams and documents as landmarks.
+Narration: "Admissions can feel like a maze when nobody explains the route."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: African advisor unfolds the map.
+Narration: "The right guidance helps you see the route before you start walking."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Girl follows a glowing path through the city.
+Narration: "Choose. Prepare. Apply. Follow up."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She opens the university door and bright daylight pours through.
+Narration: "Sometimes opportunity is closer than it looks."
+CTA: "Explore your university options."
+
+Post Text: University admission can feel confusing when students are trying to manage choices, requirements and deadlines at the same time. Guidance can make the process clearer.
+Comments:
+1. "What part of university admission feels most like a maze?"
+2. "If someone could explain one part of admissions to you for free, what would you choose?"
+3. "Students, do you choose the university first or the course first?"
+
+DAY 15
+TITLE: The IELTS Clock
+Length: 48 sec
+Psychographic: Test anxiety.
+Pattern interrupt: Time manipulation.
+Hook: "The clock isn't your enemy. The unknown is."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Huge clock spins rapidly above African IELTS student.
+Narration: "The clock isn't your enemy. The unknown is."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Clock stops. Four test sections appear around it.
+Narration: "When you know the task, the clock becomes information."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Student practices speaking while a timer runs calmly.
+Narration: "Practice turns timing into something familiar."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Reading passages become stepping stones.
+Narration: "You learn where to slow down and where to move."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Writing page organizes itself into a clear structure.
+Narration: "You learn what the test is actually asking you to demonstrate."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Clock becomes a simple wristwatch.
+Narration: "Preparation doesn't remove pressure. It makes pressure manageable."
+CTA: "Prepare with purpose."
+
+Post Text: Familiarity with the test structure, timing and task types can make preparation feel much more manageable.
+Comments:
+1. "IELTS candidates: which section makes time disappear fastest?"
+2. "Would timed practice reduce your test anxiety?"
+3. "What is one IELTS strategy you wish you had learned earlier?"
+
+DAY 16
+TITLE: The SAT Question That Wasn't Really About Math
+Length: 48 sec
+Psychographic: Students who equate mistakes with low intelligence.
+Pattern interrupt: Impossible object.
+Hook: "This math problem is secretly testing something else."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student faces a giant math problem. The numbers detach from the page and float around him.
+Narration: "This math problem is secretly testing something else."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Numbers rearrange into a clock.
+Narration: "Can you stay calm when the question looks unfamiliar?"
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Student highlights known information. Unknown parts fade.
+Narration: "Can you identify what you actually know?"
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Problem separates into three smaller steps.
+Narration: "Can you break the problem into pieces?"
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student solves each piece. Giant problem shrinks.
+Narration: "That's where strategy starts becoming useful."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student closes test book calmly.
+Narration: "A hard question is not a verdict on your intelligence."
+CTA: "Practice the process."
+
+Post Text: Difficult questions can trigger panic. Structured practice can help students learn how to identify information, break problems down and manage unfamiliar question types.
+Comments:
+1. "What's your first reaction when a test question looks impossible?"
+2. "Do you teach students how to stay calm, or only how to solve?"
+3. "One hard question should never convince a student they are not smart."
+
+DAY 17
+TITLE: She Didn't Need a Miracle
+Length: 48 sec
+Psychographic: Girls and women who need practical support.
+Pattern interrupt: Expectation subversion.
+Hook: "She didn't need someone to save her."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African young woman stands beneath a spotlight while a superhero silhouette approaches. She steps out of the spotlight.
+Narration: "She didn't need someone to save her."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: The superhero silhouette disappears. A toolbox appears.
+Narration: "She needed tools."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Tools labelled education, skills, mentorship and support appear.
+Narration: "Knowledge. Skills. Someone to ask. Somewhere safe to grow."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She uses tools to build a staircase.
+Narration: "Real empowerment is often much less dramatic than people imagine."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: She climbs the staircase herself.
+Narration: "It's having enough support to build your own way forward."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She reaches the top and removes the final tool from the box.
+Narration: "The goal isn't dependence. It's possibility."
+CTA: "Build possibility."
+
+Post Text: Support should not replace someone's agency. The right support can give people the skills, confidence and resources to move forward themselves.
+Comments:
+1. "What is more powerful: someone helping you or someone teaching you how?"
+2. "Which tool changes a young person's future most: education, mentorship, skills or confidence?"
+3. "This is a very different definition of empowerment."
+
+DAY 18
+TITLE: The Application Deadline Is Moving
+Length: 48 sec
+Psychographic: Procrastinating applicants.
+Pattern interrupt: Time manipulation.
+Hook: "The deadline is moving. And so are your excuses."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Calendar pages fly backward while an African student stares at an unfinished application.
+Narration: "The deadline is moving. And so are your excuses."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: The deadline date grows larger while the unfinished checklist remains tiny.
+Narration: "Waiting feels harmless until the calendar starts doing the math."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Documents, essays and recommendations race past the student.
+Narration: "Applications are rarely one task."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Checklist becomes a staircase.
+Narration: "Break them into smaller deadlines."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student completes each step and calendar slows down.
+Narration: "Research. Documents. Testing. Essays. Submission."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student presses submit before a large clock hits zero.
+Narration: "Future you will be grateful that today-you started."
+CTA: "Start before you feel ready."
+
+Post Text: University applications become much easier to manage when the final deadline is converted into smaller deadlines.
+Comments:
+1. "What application task do students procrastinate most?"
+2. "Are you a deadline person or an early planner?"
+3. "Send this to the friend who says, 'I'll do it tomorrow.'"
+
+DAY 19
+TITLE: What Parents Think Confidence Looks Like
+Length: 48 sec
+Psychographic: Parents of adolescents.
+Pattern interrupt: Mirror mismatch.
+Hook: "Confidence doesn't always look loud."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African teenage girl stands confidently before a mirror. Reflection looks nervous.
+Narration: "Confidence doesn't always look loud."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Reflection practices raising her hand while real girl remains quiet.
+Narration: "Sometimes confidence is simply asking a question."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Reflection walks into an unfamiliar classroom.
+Narration: "Trying again after getting something wrong."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Girl makes a mistake in a workbook, erases it and continues.
+Narration: "Or admitting, 'I don't understand this yet.'"
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Reflection finally matches her.
+Narration: "Confidence is not knowing you will win."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Girl closes workbook and looks directly at camera.
+Narration: "It's believing you can handle learning."
+CTA: "Give young people room to try."
+
+Post Text: Confidence can look like persistence, curiosity and the willingness to admit when something is difficult.
+Comments:
+1. "What did confidence look like for you as a teenager?"
+2. "Parents: do you praise results more than effort?"
+3. "The ability to say 'I don't know yet' is underrated."
+
+DAY 20
+TITLE: The Degree Is Not the Whole Story
+Length: 48 sec
+Psychographic: Students choosing university paths.
+Pattern interrupt: Scale distortion.
+Hook: "A degree is a door. It is not the whole house."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student holds a tiny diploma. Behind her is a giant house with many locked rooms.
+Narration: "A degree is a door. It is not the whole house."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Diploma becomes a key.
+Narration: "What happens after you enter matters too."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Rooms labelled communication, digital skills, leadership, experience and networks.
+Narration: "Skills, experience, communication and relationships all become part of the journey."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Student opens several rooms.
+Narration: "That's why choosing a program should involve more than the title."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: University course brochure expands into a career map.
+Narration: "Ask where it can take you."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student walks through several career doors.
+Narration: "The best choice connects today's study with tomorrow's possibilities."
+CTA: "Choose with the future in mind."
+
+Post Text: Choosing a university program is a bigger decision than picking a degree title. Students should think about skills, interests, opportunities and where the program can lead.
+Comments:
+1. "What matters most when choosing a university course?"
+2. "Would you choose passion or career prospects if you had to prioritize one?"
+3. "What university decision do you wish someone had explained before you enrolled?"
+
+DAY 21
+TITLE: The Girl Who Asked One Question
+Length: 48 sec
+Psychographic: Curious students and mentors.
+Pattern interrupt: Impossible object.
+Hook: "One question opened a door nobody could see."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African schoolgirl raises her hand. A literal glowing door appears above her.
+Narration: "One question opened a door nobody could see."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Door opens to a university library.
+Narration: "She asked, 'How do I get there?'"
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Mentor lays out a path of books, exams, applications and deadlines.
+Narration: "Not 'Can I?' Not 'Am I smart enough?'"
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Path extends toward a university.
+Narration: "'How do I?' changes the conversation."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Girl takes first step.
+Narration: "It turns a dream into a problem you can work on."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Door remains open behind her.
+Narration: "Ask better questions. Then build the answer."
+CTA: "What future question are you avoiding?"
+
+Post Text: "How do I?" is one of the most useful questions a student can ask. It moves the conversation from possibility to action.
+Comments:
+1. "What is one 'How do I?' question you need answered right now?"
+2. "Students, what goal feels too big because you don't know the first step?"
+3. "Tag a mentor who taught you to ask better questions."
+
+DAY 22
+TITLE: The GED Door Nobody Talks About
+Length: 48 sec
+Psychographic: Adults who believe they missed their chance.
+Pattern interrupt: Time reversal.
+Hook: "Your timeline is not a prison."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African adult woman's calendar pages fly backward.
+Narration: "Your timeline is not a prison."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: A school door closes behind her.
+Narration: "Maybe your education journey did not happen when you expected."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: A second door opens labelled GED.
+Narration: "That does not automatically mean the story is finished."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Woman studies after work at a kitchen table.
+Narration: "A different route can still require discipline."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Study notes transform into a qualification certificate.
+Narration: "But different does not mean impossible."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Woman walks through a bright doorway.
+Narration: "If education still matters to you, explore what your next route could be."
+CTA: "Ask about GED preparation."
+
+Post Text: Education journeys do not always follow one timeline. The important question is what options are available from where you are today.
+Comments:
+1. "Why do adults feel embarrassed about returning to education?"
+2. "Would you go back to school if the opportunity came today?"
+3. "What makes adult education difficult besides money?"
+
+DAY 23
+TITLE: The English Speaker Who Couldn't Pass
+Length: 48 sec
+Psychographic: IELTS candidates frustrated by scores.
+Pattern interrupt: Expectation subversion.
+Hook: "She spoke English every day. So why was the test beating her?"
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African woman speaks confidently to friends. The scene freezes and becomes a formal IELTS testing room.
+Narration: "She spoke English every day. So why was the test beating her?"
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Everyday conversation transforms into timed test prompts.
+Narration: "Because everyday communication and test performance are different environments."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Timer and scoring criteria appear.
+Narration: "The test has specific tasks, timing and scoring criteria."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She practices one task repeatedly.
+Narration: "That means preparation should be specific too."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Her practice notes organize into four clear skill sections.
+Narration: "Practice the format, not just the language."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She enters the testing room calm and prepared.
+Narration: "The goal is to make test day feel familiar."
+CTA: "Prepare specifically for IELTS."
+
+Post Text: Speaking English confidently is valuable, but IELTS preparation also requires familiarity with the test tasks, timing and scoring criteria.
+Comments:
+1. "Did you assume speaking English meant IELTS would be easy?"
+2. "Which IELTS skill is hardest to practice alone?"
+3. "What would make you feel 20% more confident before test day?"
+
+DAY 24
+TITLE: Don't Choose a University From a Pretty Website
+Length: 48 sec
+Psychographic: Students attracted by branding but needing practical guidance.
+Pattern interrupt: Material swap.
+Hook: "A beautiful university website can hide an ugly decision."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Gorgeous African university campus brochure made of gold. It melts into a stack of practical questions.
+Narration: "A beautiful university website can hide an ugly decision."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Gold surface peels away to reveal tuition, location, program and requirements.
+Narration: "Pretty buildings are not enough."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Four floating questions appear.
+Overlay: "Cost? Course? Entry requirements? Career fit?"
+Narration: "Ask what the program costs, what it teaches and where it can take you."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Student compares three university doors.
+Narration: "Then compare options instead of falling in love with one."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: One door becomes brighter because it matches the student's profile.
+Narration: "The right university is the one that fits the student."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student enters selected campus.
+Narration: "Not simply the one with the best marketing."
+CTA: "Choose strategically."
+
+Post Text: University choice deserves more than attractive marketing. Students should compare academic fit, requirements, affordability and future goals.
+Comments:
+1. "What is the first thing you look at on a university website?"
+2. "Would you choose prestige or affordability?"
+3. "What university factor gets ignored most often?"
+
+DAY 25
+TITLE: The Exam Doesn't Know You're Scared
+Length: 48 sec
+Psychographic: Students with exam anxiety.
+Pattern interrupt: Emotion subversion.
+Hook: "The exam doesn't care that you're scared. Your preparation should."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student sits before an enormous exam paper. Paper looks cold and emotionless.
+Narration: "The exam doesn't care that you're scared."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Student's fear appears as a dark cloud above her.
+Narration: "But that doesn't mean your fear has to control the room."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: She turns fear cloud into flashcards.
+Narration: "Practice gives anxiety somewhere to go."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Repeated practice scenes move faster while she improves.
+Narration: "Every familiar question reduces one unknown."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Exam room appears. Same desk, same clock, calmer student.
+Narration: "You cannot guarantee a perfect exam."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student begins confidently.
+Narration: "But you can walk in knowing you've prepared for the experience."
+CTA: "Prepare before panic becomes the plan."
+
+Post Text: Preparation cannot guarantee a perfect score. It can make the test environment less unfamiliar and help students approach it with a clearer strategy.
+Comments:
+1. "What does exam anxiety feel like for you physically?"
+2. "Does practice reduce your anxiety or make you more aware of the clock?"
+3. "What is the best exam advice someone ever gave you?"
+
+DAY 26
+TITLE: She Had the Grades. Not the Confidence.
+Length: 48 sec
+Psychographic: High-performing students who underestimate themselves.
+Pattern interrupt: Mirror mismatch.
+Hook: "Her grades said yes. Her mind said no."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African girl holds excellent report card. Her mirror shows a nervous version of herself.
+Narration: "Her grades said yes. Her mind said no."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Report card grows into a wall separating her from a university.
+Narration: "Sometimes strong students still hesitate because they don't see themselves in the opportunity."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Wall becomes transparent, revealing university campus.
+Narration: "Achievement and self-belief don't always arrive together."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Mentor shows her previous achievements.
+Narration: "Sometimes confidence has to catch up with evidence."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Girl walks through wall.
+Narration: "Your past performance is not a guarantee."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Girl faces camera.
+Narration: "But it is evidence that you are capable of learning."
+CTA: "Don't let doubt make the decision."
+
+Post Text: Some high-performing students need support not because they lack ability, but because they underestimate what their ability could make possible.
+Comments:
+1. "Can high grades and low confidence exist together? Absolutely."
+2. "What achievement did you dismiss because it felt 'normal' to you?"
+3. "Tag someone who is more capable than they think."
+
+DAY 27
+TITLE: The Advice That Sounds Helpful But Isn't
+Length: 48 sec
+Psychographic: Parents, mentors and educators.
+Pattern interrupt: Typography slam + expectation subversion.
+Hook: "Just work harder."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: Huge words "JUST WORK HARDER" slam onto screen, then crack.
+Narration: "Sometimes 'just work harder' is terrible advice."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: African student pushes an enormous boulder labelled "CONFUSION."
+Narration: "What if the student doesn't know what to work on?"
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Boulder splits into weak areas, timing, content gaps and strategy.
+Narration: "Effort without direction can become exhaustion."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Mentor turns boulder into a checklist.
+Narration: "Good support identifies the gap first."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Student works through targeted practice.
+Narration: "Then effort becomes specific."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student moves forward easily.
+Narration: "Before asking someone to work harder, ask what is actually getting in the way."
+CTA: "Better questions. Better support."
+
+Post Text: Hard work matters. But targeted effort usually starts with understanding the actual problem.
+Comments:
+1. "What is the most unhelpful advice students hear?"
+2. "Have you ever worked incredibly hard on the wrong thing?"
+3. "Parents and teachers: diagnose before you prescribe."
+
+DAY 28
+TITLE: Your Future Is Not a Lottery Ticket
+Length: 48 sec
+Psychographic: Young people who feel opportunities are random.
+Pattern interrupt: Impossible object.
+Hook: "She kept waiting for luck. Then she built a plan."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student stands under a rainstorm of lottery tickets, trying to catch one.
+Narration: "She kept waiting for luck."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Tickets transform into university requirements, exam books and deadlines.
+Narration: "Then she realized opportunities usually have processes."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: She builds a staircase from the documents.
+Narration: "Prepare."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She climbs.
+Narration: "Apply."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Multiple doors appear.
+Narration: "Try again."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: She chooses one open door.
+Narration: "You cannot control every outcome. You can control whether you are ready when opportunity appears."
+CTA: "Build your next step."
+
+Post Text: Opportunity always includes uncertainty. Preparation gives students more control over the part they can influence.
+Comments:
+1. "What part of your future feels like luck right now?"
+2. "Do you think preparation creates opportunity or simply helps you recognize it?"
+3. "What are you preparing for that nobody else can see yet?"
+
+DAY 29
+TITLE: If She Could Send You One Message
+Length: 48 sec
+Psychographic: Women and girls who need encouragement without cliché.
+Pattern interrupt: Time manipulation.
+Hook: "A woman from your future just sent this."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African young woman receives a phone notification from "You, 10 years from now."
+Narration: "A woman from your future just sent this."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Message types itself: "Please don't make fear your career counselor."
+Narration: "She says, 'Please don't make fear your career counselor.'"
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Younger woman stands before doors labelled SAFE, EXPECTED, POSSIBLE.
+Narration: "Don't choose the smallest life simply because it feels safest."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: She opens POSSIBLE.
+Narration: "Learn the skill. Ask the question. Submit the application."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: Future version walks beside her.
+Narration: "Let your future become evidence that today's fear was not the whole truth."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Both versions look forward together.
+Narration: "You have more time to shape it than you think."
+CTA: "Send this to your future self."
+
+Post Text: Fear can influence decisions long before we notice it. Give yourself permission to investigate possibilities before deciding they are impossible.
+Comments:
+1. "What would your future self beg you not to quit?"
+2. "Which door would you choose: safe, expected or possible?"
+3. "This one is for the woman who keeps postponing herself."
+
+DAY 30
+TITLE: We Don't Just Prepare Students for Tests
+Length: 48 sec
+Psychographic: Parents and students deciding whether to seek support.
+Pattern interrupt: Multiple-category finale, scale + emotion.
+Hook: "A test score can open a door. What happens next matters more."
+
+Clip 1 | 0:00-0:08 | 8 sec
+Visual: African student stands before a giant test paper that transforms into a university door.
+Narration: "A test score can open a door."
+
+Clip 2 | 0:08-0:16 | 8 sec
+Visual: Door opens, revealing a maze of applications, deadlines and decisions.
+Narration: "But what happens next matters more."
+
+Clip 3 | 0:16-0:24 | 8 sec
+Visual: Student walks through SAT, GED and IELTS signs that transform into stepping stones.
+Narration: "Preparation can start with a test."
+
+Clip 4 | 0:24-0:32 | 8 sec
+Visual: Stepping stones become a university application pathway.
+Narration: "But the bigger journey can include choosing the right path and navigating admission."
+
+Clip 5 | 0:32-0:40 | 8 sec
+Visual: African mentor and student walk together through the pathway.
+Narration: "The goal is not simply another certificate."
+
+Clip 6 | 0:40-0:48 | 8 sec
+Visual: Student reaches a university campus. Camera rises to reveal many open paths ahead.
+Narration: "It's helping students see what is possible and prepare for the next step."
+CTA: "Saint Naomis. Education, support and opportunity."
+Post Text: From school support to SAT, GED and IELTS preparation and university admission assistance, the goal is to help students move from uncertainty toward a clearer next step.
+Comments:
+1. "What is the biggest gap between wanting university and actually getting there?"
+2. "If you could give every student one resource before graduation, what would it be?"
+3. "Parents and students: which part of the journey needs the most support?"
+
+RECURRING SERIES TO CONTINUE AFTER DAY 30
+=========================================
+1. "Nobody Told Her" - uncomfortable truths about girls, education and identity.
+2. "Ask Better" - one question parents/teachers/students should ask.
+3. "60 Seconds Before Your Exam" - practical SAT/GED/IELTS preparation.
+4. "The Application Room" - university admissions explained through visual metaphors.
+5. "Future You" - time-manipulation stories aimed at student identity and aspiration.
+6. "Things Students Think Are Normal" - hidden struggles and misconceptions.
+7. "One Door" - stories about education pathways and opportunities.
+8. "Parent Radar" - subtle warning signs and better conversations.
+9. "Test Myth" - one misconception about SAT/GED/IELTS per episode.
+10. "Could You Spot It?" - interactive pattern-interrupt stories where viewers identify the hidden issue.
+
+GHL POSTING/ASSET NAMING CONVENTION
+===================================
+Use:
+SN_D01_EmptyChair
+SN_D02_FutureSound
+SN_D03_SmileTest
+...
+SN_D30_TestToDoor
+
+Recommended fields:
+Title
+Pillar
+Psychographic
+Pattern Interrupt
+Length
+Clip Count
+Clip Timings
+Hook
+Narration
+Visual Prompt
+Overlay Text
+Post Text
+CTA
+Sample Comments
+
+COMMENT STRATEGY
+================
+Do not post comments that sound like brand employees praising their own content.
+Rotate:
+- Personal memory questions
+- "Would you..." dilemmas
+- Parent/student disagreements
+- Experience questions
+- Tagging prompts
+- Contrarian questions
+- Specific educational questions
+- "What happened next?" curiosity prompts
+
+Avoid:
+"Wow, this is so powerful!"
+"This is amazing!"
+"Very inspiring!"
+"Great work!"
+"Who agrees?"
+
+VISUAL CONTINUITY MASTER RULE
+=============================
+Whenever the same character returns, repeat the exact character descriptor in the generation prompt. Example:
+
+"15-year-old Black African girl, dark brown complexion, natural shoulder-length twists, expressive brown eyes, white school blouse, navy skirt, black school shoes."
+
+Do not change age, complexion, hairstyle or wardrobe between clips unless the story explicitly shows a time jump.
+
+GENERAL AI VIDEO NEGATIVE GUIDANCE
+==================================
+Avoid: non-African human characters, changing faces, changing hairstyles, changing clothing without narrative reason, extra fingers, distorted hands, duplicate people, floating facial features, unreadable text, logos, watermarks, random subtitles, camera drift, unexplained scene changes, cartoon appearance, excessive cinematic effects that compete with the story.
+
+For typography-based clips, generate clean space for post-production text whenever the video model struggles to render exact words. Text can be added in editing/GHL workflow rather than relying on the model.
+
+END
